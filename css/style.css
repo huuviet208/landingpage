@@ -99,3 +99,7 @@ li.dropdown {
 .hideable-section:first-of-type {
     display: block;
 }
+
+#home pre img{
+    float: left;
+}
